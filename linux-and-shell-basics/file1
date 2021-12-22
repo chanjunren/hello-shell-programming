@@ -1,0 +1,12 @@
+total 52
+-rwxrwxr-x 1 cjr cjr 16704 Dec 22 17:54 a.out
+-rw-rw-r-- 1 cjr cjr     0 Dec 22 18:11 file1
+-rw-rw-r-- 1 cjr cjr     0 Dec 22 18:11 file2
+-rw-rw-r-- 1 cjr cjr    43 Dec 22 15:53 file_created_using_cat.txt
+-rw-rw-r-- 1 cjr cjr     5 Dec 22 17:54 input.txt
+-rwxrwxr-x 1 cjr cjr    55 Dec 22 17:58 name.sh
+-rwxrwxr-x 1 cjr cjr   232 Dec 22 17:39 printfexample.sh
+-rw-rw-r-- 1 cjr cjr   147 Dec 22 17:42 printfoutput.txt
+-rw-rw-r-- 1 cjr cjr     2 Dec 22 17:50 size.txt
+-rw-rw-r-- 1 cjr cjr   154 Dec 22 17:52 sum.cpp
+-rwxrwxr-x 1 cjr cjr    36 Dec 22 15:56 who_am_i.sh
