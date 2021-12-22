@@ -1,0 +1,4 @@
+No        Move        Difficulty
+1         Forward Toe Seven       30.00
+2         Backward Toe Seven      999.00
+3         Heel Fake        45.00
